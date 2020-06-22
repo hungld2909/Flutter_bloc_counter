@@ -2,4 +2,3 @@
 
 Lấy dữ liệu từ API. sử dụng bloc.
 
-
